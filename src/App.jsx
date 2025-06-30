@@ -71,7 +71,7 @@ function App() {
     {
           showWelcome && (<div className="toast toast-top toast-end">
   <div className="alert alert-info">
-    <span>Welcome Back! Do You Want To take a risk again?....</span>
+    <span>Welcome Back! Let's do it again....</span>
   </div>
 </div>)
  }
@@ -100,7 +100,7 @@ function App() {
     ) : (
       <div className="modal-action">
         <form method="dialog">
-          <button className="btn" onClick={closeModal}>Start Over</button>
+          <button className="btn" onClick={closeModal}>Close</button>
         </form>
       </div>
     )}
