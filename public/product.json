@@ -1,0 +1,30 @@
+{
+  "Grounding": {
+    "archetype": "The Rooted One",
+    "product": "Embrace Bodysuit",
+    "description": "Feel connected and supported with our earth-toned comfort wear.",
+    "fabric": "TENCEL Soft",
+    "image": "https://plus.unsplash.com/premium_photo-1674747087104-516a4d6d316c?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "Softness": {
+    "archetype": "The Gentle Spirit",
+    "product": "Cloud Bralette",
+    "description": "Wrap yourself in softness that feels like a second skin.",
+    "fabric": "Bamboo Cotton Blend",
+    "image": "https://images.unsplash.com/photo-1518893063132-36e46dbe2428?q=80&w=735&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "Energy": {
+    "archetype": "The Radiant Flame",
+    "product": "Spark Tank Top",
+    "description": "Ignite your day with vibrant, breathable activewear.",
+    "fabric": "Cooling Mesh",
+    "image": "https://plus.unsplash.com/premium_photo-1670420991168-bab58af37e30?q=80&w=880&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  },
+  "Freedom": {
+    "archetype": "The Unbound",
+    "product": "Flow Jumpsuit",
+    "description": "Move with ease and confidence in our flexible-fit fabric.",
+    "fabric": "Modal Stretch",
+    "image": "https://images.unsplash.com/photo-1591176134674-87e8f7c73ce9?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+  }
+}
