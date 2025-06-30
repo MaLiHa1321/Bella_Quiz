@@ -71,7 +71,7 @@ function App() {
     {
           showWelcome && (<div className="toast toast-top toast-end">
   <div className="alert alert-info">
-    <span>Welcome Back! Let's do it again...</span>
+    <span>Welcome Back! Do You Want To take a risk again?....</span>
   </div>
 </div>)
  }
