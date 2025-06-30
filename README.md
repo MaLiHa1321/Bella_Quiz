@@ -1,12 +1,11 @@
-# React + Vite
+# Mini Product Discovery Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Time Spent
+ I spent about **2 hours and 30 minutes** to complete this project. I focused on keeping the design **simple, meaningful**, and functional rather than making it overly complex. The goal was to make it clean and understandable.
 
-Currently, two official plugins are available:
+ ## What I’d Improve With More Time
+ - Add smooth **animations and transitions** to enhance user interaction.
+ - Implement **question categories** or levels (easy, medium, hard).
+ - Integrate **score tracking or progress bar** during the quiz.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
