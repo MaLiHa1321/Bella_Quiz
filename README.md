@@ -20,6 +20,6 @@ If not, download and install it from https://nodejs.org
 5. Start the development server:
 - npm run dev
 6. Open your browser and go to:
-- ex: http://localhost:5000
+- example: http://localhost:5173
 
 
