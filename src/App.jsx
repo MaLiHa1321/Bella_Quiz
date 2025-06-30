@@ -100,7 +100,7 @@ function App() {
     ) : (
       <div className="modal-action">
         <form method="dialog">
-          <button className="btn" onClick={closeModal}>Close</button>
+          <button className="btn" onClick={closeModal}>Start Over</button>
         </form>
       </div>
     )}
