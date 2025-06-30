@@ -14,7 +14,7 @@ function App() {
     fetch(("product.json"))
     .then(res => res.json())
     .then((data) => setproduct(data))
-    .catch(err => console.error("failed to load data", err))
+    .catch(err => console.error("failed to load json data", err))
   },[])
 
   // to open the modal according to dynamic product
@@ -71,7 +71,7 @@ function App() {
     {
           showWelcome && (<div className="toast toast-top toast-end">
   <div className="alert alert-info">
-    <span>Welcome Back! Let's do it again....</span>
+    <span>Welcome Back! Let's do it again</span>
   </div>
 </div>)
  }
